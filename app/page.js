@@ -90,7 +90,7 @@ export default function Home() {
         <form onSubmit={handleSubmit} className="space-y-8">
           {/* Header */}
           <div className="text-center">
-            <h1 className="text-2xl font-light text-black mb-2">Contact Us</h1>
+            <h1 className="text-2xl font-light text-black mb-2">REAL ESTATE DEMO</h1>
             <div className="w-12 h-px bg-black mx-auto"></div>
           </div>
 
