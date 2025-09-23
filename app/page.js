@@ -228,18 +228,7 @@ export default function Home() {
             )}
           </button>
 
-          {/* CRM Button - Always Visible for Demo */}
-          <div className="text-center">
-            <a
-              href="https://docs.google.com/spreadsheets/d/1oh4FT0K9CoXCvlRxGvvL-Z2WjM2Rp6h0qcSsGzYAfOo/edit?usp=sharing"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="inline-block px-6 py-2 text-sm text-black border border-black hover:bg-black hover:text-white transition-colors"
-            >
-              View After Call → CRM
-            </a>
-          </div>
-
+          
           {/* Success/Error Messages */}
           {success && (
             <div className="text-center">
